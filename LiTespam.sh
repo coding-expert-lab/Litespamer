@@ -75,22 +75,13 @@ python2 6.py
 fi
 
 if
-[ $mrrm = 7 ] || [ $mrrm = 7 ]
-then
-clear
-toilet -f standard -F gay "Bukalapak"
-echo "\033[36;1m"
-php 7.php
-fi
-
-if
 [ $mrrm = 81 ] || [ $mrrm = 81 ]
 then
 clear
 toilet -f slant --gay "LiteSpam"
 echo "\033[31;1mNama tools: LiteSpam"
 sleep 1
-echo "\033[33;1mKarya: killer_noob (V2 By killer_noon)"
+echo "\033[33;1mKarya: killer_noob (V2 By killer_noob)"
 sleep 1
 echo "\033[32;1mVersi: v2"
 sleep 1

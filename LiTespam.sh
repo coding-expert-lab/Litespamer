@@ -17,6 +17,7 @@ echo "3. Matahari Mall"
 echo "4. PHD"
 echo "5. Jd.Id"
 echo "6. Email Bomber"
+echo "7.Bukalapak
 echo "0. Keluar"
 echo "\033[30;1m81. Informasi Tool Ini"
 echo "\033[33;1m Pilih Angka:"
@@ -71,6 +72,15 @@ clear
 toilet -f standard -F gay "Email Bomber"
 echo "\033[36;1m"
 python2 6.py
+fi
+
+if
+[ $mrrm = 7 ] || [ $mrrm = 7 ]
+then
+clear
+toilet -f standard -F gay "Bukalapak"
+echo "\033[36;1m"
+php 7.php
 fi
 
 if
